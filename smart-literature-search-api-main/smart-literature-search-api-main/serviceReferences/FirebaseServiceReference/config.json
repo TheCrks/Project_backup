@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "smart-literature-search-new",
+  "private_key_id": "e9d50a8b67a9ef7f859bee990f7645a601a8bf11",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC+GnwbynWymEjc\nMWlVOuVP+Pqrhwqz+YUv5zvQ215zWNzTS+NErqDrMYGszsbvRIRIF3y9sYg8QIOH\n04xyMfgjq1Ux+g7jNLi56f5KfTuNYU+Mgn6H0lZ7OH+sRTXE8HwZmwp24GgZPP8g\ngoo79/3B45N389F8wSP/lLMN0d+FFzkMbTrG0Iy59Dwz/ZKaF4jBMbLvwHqR6OHf\nfta3c5RYEWkqn3JNg7iCHWHS/N4t54k/52YQXKEZTOc6qqxyxbKmSY8VMVEyUFY9\nm3PVUprhfBPugI+y7fMKRZBNQZIMX7RgXhwLuVGUxu/a6Xkm5af/iNFMdKsiZTS0\npvbi+5NBAgMBAAECggEABL3fCp0U18zkma7B1IEQ5zBr+uCgwQx1k1ROhvnHHqlr\nbfnJRBVMU5F7N+GQegyuH/41+6VJ+KFt+8f9tiYjl6rWXSts46M/raN11vXOCSC8\nPeJOCvqRcvwIczY8DnAmfZ0DDc6wdLCzdw7Kfo8Y9+ptQI4G/k2dpZUCl6hRzZ1T\nqh7WFMwGa60wSaZZaixyaaGgpzZr1KxrStslQS5lPilUoQr57IIfd4rS2J1we1n3\nS+1OZ+tr7U6RD7iaOONKn51GA+64VI5FDKr0+4KA98h4eIPhVqQVRQZkTnwUH+Tk\nL/o2RmZxdyWLUPmQx+/Xf2JrXJOek7F7v6HwYnxy4QKBgQDiHXT2ib+bL27UGwuX\nGqUzU/wumzDmLiAsD9CPmc5gDM92uEr0TTeJn6WjhRc6PuThEV2WTkqSe9LeNMK7\nguqpxgTT0weqTYmLxZ8OcCCOEr/QDQ4EOa7hJYXMnd6sDvFCfI3dXC1a0UOGRB1G\n4Vc2tmKJnwG+v41faJB+lzY/7wKBgQDXOpWtU7SQSGPLQUADxLBCGXhlS4Spnwvz\nu3ZMs9V6KGatleOwMjIV/ABZHqlU4UNkBbnj0hJKOHCvgNfEb55ZBXPgPNPKS7rY\noBOGNargLo/1Nsuf9a7L+k83b9kX5k2mKjlXOrW/Lik9IsU9T+Y7HdWqz2+BlV2O\n9mupTK8vzwKBgQDI4H5+X5W3WgZNrNE5JlTJKr2I8hoZA7VVL5+LU4rCTd8pi0Qb\nkVXbj9bpVF10Q1e2k2TfGSKqzBJjkd/GEeJDfUXgoUPYChY99A0AGKDzVrjNLivb\nmRtBrcIWK9IcbRHsjRbDJxar7ejdKToRNDP0yUb1GCvGuAnyTsS/kbqCRQKBgQCs\nDmpvWFYlbalRaEUrfgZFoSTtHVTdYIbmfnsQ0EadVETZCdUuGsKNbpo8pFVLxJTi\nFe3H4Ty71qjGtGJI584XblN29El/E9E3sahKBwcmFjMBHZ/krTviVqUTNTfAclyq\ntGCIiieWwOk4tV4mKIRtx+jylseWOPjE+9uPSP1XYwKBgQCQe5Q3TNF0yqAZEQru\nf/Yarla0GY5YVJ3HAHsBbv8YfR3D+CdiU0kV9qJ5du1JurOdZ63a2lJbGT8Mlzlq\n0xVoFbvDrZ7VXR9DSPMD9xtRuzmaHPmuhxQ9J0h6+eY12DJH53kNf+yrOnAa4nms\nVqT4is847xLD4KsI00yjj93PNg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@smart-literature-search-new.iam.gserviceaccount.com",
+  "client_id": "117884702923479384699",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40smart-literature-search-new.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
