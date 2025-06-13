@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\pages",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Content",
+    "\\src\\components\\Results",
+    "\\src\\containers",
+    "\\src\\redux",
+    "\\src\\redux\\actions",
+    "\\src\\services"
+  ],
+  "PreviewInSolutionExplorer": false
+}

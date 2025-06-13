@@ -1,0 +1,17 @@
+// crawling
+export const RETRIEVE_SEARCH_COUNTS = 'RETRIEVE_SEARCH_COUNTS';
+export const CREATE_NEW_SEARCH = 'CREATE_NEW_SEARCH';
+export const RETRIEVE_SEARCHES = 'RETRIEVE_SEARCHES';
+
+// scraping
+export const START_SCRAPING = 'START_SCRAPING';
+export const RETRIEVE_SCRAPING_RESULTS = 'RETRIEVE_SCRAPING_RESULTS';
+
+// loading
+export const SET_LOADING_STATUS = 'SET_LOADING_STATUS';
+
+//sorting
+export const SORT_RESULTS = 'SORT_RESULTS';
+
+// logging
+export const LOG_RESULTS = 'LOG_RESULTS';
